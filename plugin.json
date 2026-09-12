@@ -6,12 +6,12 @@
   "data": [
     {
       "name": "AI Truyện",
-      "author": "Tên Của Bạn",
+      "author": "Thanh Hung",
       "path": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/aitruyen/plugin.zip",
       "version": 1,
-      "source": "https://static.aitruyen.net",
-      "icon": "https://static.aitruyen.net/favicon.ico",
-      "description": "Đọc truyện tĩnh trên AI Truyện",
+      "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
+      "icon": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/aitruyen/icon.png", 
+      "description": "Nguồn đọc tĩnh dành riêng cho bộ Nô Lệ Bóng Tối",
       "type": "novel",
       "locale": "vi_VN"
     }
