@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Tên Của Bạn",
+    "description": "Kho lưu trữ cá nhân"
+  },
+  "data": [
+    {
+      "name": "AI Truyện",
+      "author": "Tên Của Bạn",
+      "path": "https://raw.githubusercontent.com/TEN_GITHUB_CUA_BAN/TEN_REPO/master/aitruyen/plugin.zip",
+      "version": 1,
+      "source": "https://static.aitruyen.net",
+      "icon": "https://static.aitruyen.net/favicon.ico",
+      "description": "Đọc truyện tĩnh trên AI Truyện",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}

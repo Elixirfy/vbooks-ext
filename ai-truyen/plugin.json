@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "AI Truyện",
+    "author": "VBook User",
+    "version": 1,
+    "source": "https://static.aitruyen.net",
+    "regexp": "static\\.aitruyen\\.net/truyen-.*",
+    "description": "Plugin nguồn AI Truyện tĩnh (Hỗ trợ Cache)",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "novel",
+    "icon": "https://static.aitruyen.net/favicon.ico"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
