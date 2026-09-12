@@ -4,7 +4,7 @@
     "author": "VBook User",
     "version": 1,
     "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
-    "regexp": "static\\.aitruyen\\.net/.*",
+    "regexp": "static\\.aitruyen\\.net/truyen-no-le-bong-toi\\.html",
     "description": "Extension tĩnh biệt lập",
     "local": "vi_VN",
     "language": "javascript",

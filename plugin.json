@@ -6,12 +6,12 @@
   "data": [
     {
       "name": "AI Truyện",
-      "author": "Thanh Hung",
-      "path": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/aitruyen/plugin.zip",
-      "version": 1,
+      "author": "Darkrai9x",
+      "path": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/ai-truyen/plugin.zip",
+      "version": 2,
       "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
-      "icon": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/aitruyen/icon.png", 
-      "description": "Nguồn đọc tĩnh dành riêng cho bộ Nô Lệ Bóng Tối",
+      "icon": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/ai-truyen/icon.png",
+      "description": "Nguồn đọc tĩnh dành riêng cho bộ Nô Lệ Bóng Tối, tự cập nhật chương mới",
       "type": "novel",
       "locale": "vi_VN"
     }
