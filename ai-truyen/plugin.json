@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
     "regexp": "static\\.aitruyen\\.net/truyen-no-le-bong-toi\\.html",
-    "description": "Extension tĩnh biệt lập",
+    "description": "Extension tĩnh biệt lập outside",
     "local": "vi_VN",
     "language": "javascript",
     "type": "novel",
