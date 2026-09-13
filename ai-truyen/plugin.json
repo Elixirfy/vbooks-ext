@@ -14,6 +14,9 @@
   "script": {
     "detail": "detail.js",
     "toc": "toc.js",
-    "chap": "chap.js"
+    "chap": "chap.js",
+    "home": "home.js",
+    "gen": "gen.js",
+    "search": "search.js"
   }
 }
