@@ -6,9 +6,9 @@
   "data": [
     {
       "name": "AI Truyện",
-      "author": "Darkrai9x",
+      "author": "Elixirfy",
       "path": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/ai-truyen/plugin.zip",
-      "version": 3,
+      "version": 5,
       "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
       "icon": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/master/ai-truyen/icon.png",
       "description": "Nguồn đọc tĩnh dành riêng cho bộ Nô Lệ Bóng Tối, tự cập nhật chương mới",
