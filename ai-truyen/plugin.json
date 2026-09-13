@@ -2,7 +2,7 @@
   "metadata": {
     "name": "AI Truyện",
     "author": "Elixirfy",
-    "version": 6,
+    "version": 1,
     "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
     "regexp": "static\\.aitruyen\\.net/truyen-no-le-bong-toi\\.html",
     "description": "Extension tĩnh biệt lập",
