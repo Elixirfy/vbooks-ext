@@ -4,7 +4,7 @@
     "author": "Elixirfy",
     "version": 1,
     "source": "https://static.aitruyen.net/truyen-no-le-bong-toi.html",
-    "regexp": "static\\.aitruyen\\.net/truyen-no-le-bong-toi\\.html",
+    "regexp": "static\\.aitruyen\\.net/.*",
     "description": "Extension tĩnh biệt lập outside",
     "local": "vi_VN",
     "language": "javascript",
@@ -12,11 +12,11 @@
     "icon": "icon.png"
   },
   "script": {
-    "detail": "detail.js",
-    "toc": "toc.js",
-    "chap": "chap.js",
     "home": "home.js",
     "gen": "gen.js",
-    "search": "search.js"
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
   }
 }
