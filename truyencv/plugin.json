@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "TruyenCV",
+    "author": "Darkrai9x",
+    "version": 2,
+    "source": "https://truyencv.io",
+    "regexp": "(https?://)?(www\\.)?truyencv\\.io/.*",
+    "description": "Extension TruyenCV sử dụng WordPress REST API",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "novel",
+    "icon": "icon.png"
+  },
+  "script": {
+    "gen": "gen.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
