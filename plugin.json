@@ -19,11 +19,11 @@
       "name": "TruyenCV",
       "author": "Elixirfy",
       "path": "https://raw.githubusercontent.com/Elixirfy/vbooks-ext/main/truyencv/plugin.zip",
-      "version": 2,
       "source": "https://truyencv.io",
       "description": "Extension TruyenCV sử dụng WordPress REST API",
       "type": "novel",
-      "locale": "vi_VN"
+      "locale": "vi_VN",
+      "version": 3
     }
   ]
 }
